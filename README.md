@@ -1,3 +1,3 @@
 骰子
 
-![app/src/main/res/drawable/img.png]()
+![实例](app/src/main/res/drawable/img.png)
