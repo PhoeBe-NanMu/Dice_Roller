@@ -1,2 +1,3 @@
 骰子
-![Uploading image.png…]()
+
+![app/src/main/res/drawable/img.png]()
